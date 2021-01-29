@@ -1,0 +1,3 @@
+# HospitalManagment
+Java OOP
+AVTOMATLASHTIRILGAN SHIFOXONA TIZIMI<br>
